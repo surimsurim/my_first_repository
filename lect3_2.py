@@ -176,14 +176,16 @@ while i <= 100:
         print("홀수 : ", i)
         i += 1
 """
-
+"""
 #1에서 100까지의 7의 배수만 출력하기
 i = 1
+
 while i <= 100:
     if i % 7 == 0:
         print(i)
         i += 1
-        
+"""
+"""
 for i in range(10):
     if i == 7:
         break
@@ -193,3 +195,4 @@ for i in range(10):
         pass
     
     print(i)
+    """
