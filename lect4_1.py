@@ -203,6 +203,7 @@ a = input("a를 입력하세요")
 b = input("b를 입력하세요")
 calc(a, b)
 """
+"""
 #5개 수 입력
 def sum_num(num):
     return sum(num)
@@ -213,6 +214,7 @@ for i in range(1, 6):
     nums.append(innum)
     
 print(sum_num(nums))
+"""
 
 
 
